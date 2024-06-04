@@ -1,0 +1,14 @@
+.detail-page {
+  background: rgba(255, 255, 255, 0.9);
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  margin: 20px;
+  width: 80%;
+  max-width: 600px;
+  text-align: center;
+}
+
+.error {
+  color: red;
+}
